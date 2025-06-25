@@ -1,12 +1,26 @@
-# React + Vite
+# 	😄 🥺  Mood Journal App 😡 😐
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive web app to track your daily moods, reasons behind them, and your personal notes — built using **React**, **Vite**, and localStorage for data persistence.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 😄 Emoji-based mood selection (Happy, Sad, Angry, Neutral)
+- ✍️ Write and save notes about your feelings
+- 📋 Select multiple reasons for your mood (Work, Family, Food, etc.)
+- 📅 View mood history with timestamps
+- 🗑️ Delete individual entries or clear all history
+- 📱 Fully responsive design for mobile, tablet, and desktop
 
-## Expanding the ESLint configuration
+## 🔧 Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React (with Hooks)
+- Vite (for fast development)
+- CSS3 with custom media queries
+- localStorage for saving entries
+- React Router for page navigation
+
+## 📷 Screenshots
+
+| Home Page | Mood History |
+|-----------|---------------|
+| ![Home Screenshot](./public/Home-Page.png) | ![History Screenshot](./public/History-Page.png) |
