@@ -24,3 +24,6 @@ A simple and responsive web app to track your daily moods, reasons behind them, 
 | Home Page | Mood History |
 |-----------|---------------|
 | ![Home Screenshot](./public/Home-Page.png) | ![History Screenshot](./public/History-Page.png) |
+
+## 🔗 Live Preview
+https://mood-journal-cyan-beta.vercel.app/
