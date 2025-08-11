@@ -181,7 +181,7 @@ const formattedTime = currentTime.toLocaleTimeString([], {
                   <div className="write-section">
                     <h3>Let's write about it..!</h3>
                     <textarea
-  placeholder="Write your thoughts here..."
+  placeholder="Write your thoughts here..." required
   value={thoughts}
   onChange={(e) => setThoughts(e.target.value)}
 />
